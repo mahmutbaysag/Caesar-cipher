@@ -1,0 +1,11 @@
+C:\Users\astro\source\repos\Sezar Şifreleme\Sezar Şifreleme\bin\Release\Sezar Şifreleme.exe.config
+C:\Users\astro\source\repos\Sezar Şifreleme\Sezar Şifreleme\bin\Release\Sezar Şifreleme.exe
+C:\Users\astro\source\repos\Sezar Şifreleme\Sezar Şifreleme\bin\Release\Sezar Şifreleme.pdb
+C:\Users\astro\source\repos\Sezar Şifreleme\Sezar Şifreleme\obj\Release\Sezar Şifreleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\astro\source\repos\Sezar Şifreleme\Sezar Şifreleme\obj\Release\Sezar_Şifreleme.Form1.resources
+C:\Users\astro\source\repos\Sezar Şifreleme\Sezar Şifreleme\obj\Release\Sezar_Şifreleme.Properties.Resources.resources
+C:\Users\astro\source\repos\Sezar Şifreleme\Sezar Şifreleme\obj\Release\Sezar Şifreleme.csproj.GenerateResource.cache
+C:\Users\astro\source\repos\Sezar Şifreleme\Sezar Şifreleme\obj\Release\Sezar Şifreleme.csproj.CoreCompileInputs.cache
+C:\Users\astro\source\repos\Sezar Şifreleme\Sezar Şifreleme\obj\Release\Sezar Şifreleme.exe
+C:\Users\astro\source\repos\Sezar Şifreleme\Sezar Şifreleme\obj\Release\Sezar Şifreleme.pdb
+C:\Users\astro\source\repos\Sezar Şifreleme\Sezar Şifreleme\obj\Release\Sezar Şifreleme.csproj.AssemblyReference.cache
